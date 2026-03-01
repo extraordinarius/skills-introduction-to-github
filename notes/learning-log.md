@@ -1,4 +1,4 @@
-# Learning log
+# My Learning Journal
 
 ## 2026-03-01
 - Completed GitHub Skills intro course

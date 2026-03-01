@@ -1,4 +1,4 @@
-# Learning log
+# Developer Notes
 
 ## 2026-03-01
 - Completed GitHub Skills intro course

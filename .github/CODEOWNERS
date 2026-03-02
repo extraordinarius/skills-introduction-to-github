@@ -1,0 +1,8 @@
+# Default owner for everything
+* @extraordinarius
+
+# Notes folder owned specifically
+/notes/ @extraordinarius
+
+# Workflows require extra scrutiny
+/.github/workflows/ @extraordinarius
